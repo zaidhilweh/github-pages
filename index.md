@@ -1,6 +1,6 @@
 ---
 title: Welcome to my blog
+date: 2/5/2023
 ---
----
-title: What i ate for lunch
----
+
+
